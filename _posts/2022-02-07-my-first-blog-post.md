@@ -1,2 +1,7 @@
+---
+title: "My first blog"
+date: 2022-02-06
+---
+
 This is the mock blog post
-HMU and lets hit the club
+Lets hit the club
